@@ -88,7 +88,7 @@ export default function Home({ data }) {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Wubba Lubba Dub dub!</h1>
+        <h1 className={styles.title}>Wubba Lubba Dub dub!!</h1>
 
         <p className={styles.description}>Rick and Morty Wiki</p>
 
